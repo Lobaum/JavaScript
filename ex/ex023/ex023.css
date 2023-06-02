@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+   background-image: url(/img/EY5udzCXkAwd8bd.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+.dw {
+    color: white;
+}
+section {
+    padding: 20px;
+    background-color: white;
+    margin: 0 auto;
+    width: 700px;
+    border-radius: 10px;
+}
+#aprv {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
